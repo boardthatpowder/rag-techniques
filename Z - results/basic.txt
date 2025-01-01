@@ -1,0 +1,1 @@
+Based on the context, the main components of an LLM-powered autonomous agent system include the LLM itself functioning as the brain, a planning component (which handles subgoal decomposition and task breakdown), and a memory component. The system also includes reflection and refinement capabilities, allowing the agent to learn from past actions and improve through self-criticism.
