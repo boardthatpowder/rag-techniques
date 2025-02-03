@@ -10,3 +10,6 @@ These notebooks are based on langchains's [rag-from-scratch](https://github.com/
 
 # Where to start?
 
+- Go through each directory between `A - Basic` and `G - Generation`.
+- Most of these directories have a `README.md` to set context on the subject. Read this first.
+- Then run through each notebook in sequence.
